@@ -39,7 +39,6 @@ jobs:
           - ubuntu-22.04
         include:
           - REPO_BRANCH: istoreos-23.05
-            os: ubuntu-22.04
 
       fail-fast: false
 
